@@ -8,7 +8,7 @@
 
 # Explicación de creacion de APK/Bundle con React
 
-Una vez ejecutados los comandos ionic build y ionic cap add androis se generarán dos directorios, build y android respectivamente. Como se muestra en la siguiente figura.
+Una vez ejecutados los comandos ionic build y ionic cap add android se generarán dos directorios, build y android respectivamente. Como se muestra en la siguiente figura.
 
 ![image](https://user-images.githubusercontent.com/66254573/146658481-2881bd46-76e1-40d1-b769-103ae8c71fb3.png)
 
