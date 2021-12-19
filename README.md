@@ -5,11 +5,23 @@
 * Dávila Bernabé
 
 # Explicación de creación APK/Bundle con Angular
+Al ejecutar el comando ionic build se crea la app para la aplicacion web del proyecto, posterior a ello se ejecuta el comando ionic cap add android para generar la carpeta andriod que nos servira para la ejecucion de la aplicacion en android, com ose muestra en la siguiente figura:
+
+![image](https://user-images.githubusercontent.com/58036212/146658889-9f963bc6-9d2c-4255-a152-da93e5f23b10.png)
+
+Luego se ejecuta el comando ionic cap open android para abrir el proyecto en Android Studio para poder ser ejecutado con un emulador o directamente en el celular, al dar en Run instalamos la aplicacion en el movil. El funcionamiento se vera en la siguiente imagen:
+
+![image](https://user-images.githubusercontent.com/58036212/146658906-03438c6d-19cc-4ec8-8cd0-0136f97ab33a.png)
+
+Por ultimo se crea los archivos APK y Bundle como se vera en las siguientes imagenes:
+
+![image](https://user-images.githubusercontent.com/58036212/146658930-18321e7b-ee0b-4f1a-aa49-f4b83fa346a8.png)
+![image](https://user-images.githubusercontent.com/58036212/146658932-b2537d0f-e1fa-462b-b95b-3d20615d6029.png)
 
 # Explicación de creacion de APK/Bundle con React
 
 Una vez ejecutados los comandos ionic build y ionic cap add android se generarán dos directorios, build y android respectivamente. Como se muestra en la siguiente figura.
-
+Http
 ![image](https://user-images.githubusercontent.com/66254573/146658481-2881bd46-76e1-40d1-b769-103ae8c71fb3.png)
 
 Dentro del archivo Manifest que se encuentra en android/app/src/main/AndroidManifest.xml se colocan las respectivas líneas de comando de permisos como se muestra en la siguiente figura.
