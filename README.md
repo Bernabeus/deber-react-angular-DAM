@@ -5,7 +5,7 @@
 * Dávila Bernabé
 
 # Explicación de creación APK/Bundle con Angular
-Al ejecutar el comando ionic build se crea la app para la aplicacion web del proyecto, posterior a ello se ejecuta el comando ionic cap add android para generar la carpeta andriod que nos servira para la ejecucion de la aplicacion en android, com ose muestra en la siguiente figura:
+Al ejecutar el comando ionic build se crea la app para la aplicacion web del proyecto, posterior a ello se ejecuta el comando ionic cap add android para generar la carpeta andriod que nos servira para la ejecucion de la aplicacion en android, como se muestra en la siguiente figura:
 
 ![image](https://user-images.githubusercontent.com/58036212/146658889-9f963bc6-9d2c-4255-a152-da93e5f23b10.png)
 
@@ -41,6 +41,11 @@ Como último paso para la generación de APK o Bundle se selecciona la opción d
 * Bundle
 ![image](https://user-images.githubusercontent.com/66254573/146658617-0e4e3659-37b8-4e30-92ba-18fd60274f38.png)
 
+# Diferencias entre Angular y React 
+
+* Una de las principales diferencias se presentan en el momento de ejecutar el comando de ionic build puesto que en Angular crea una carpeta denominada como www. Por otro lado, en React se genera la carpeta build. 
+
+* Ambas tecnologías trabajan muy bien en relación con ionic, ambas permiten trabajar e implementar las mismas funcionalidades por lo cual en modo de conclusión se puede decir que ninguna tecnologia es mejor que otra, sino que depende del tipo de proyecto para saber que tecnología puede ser usada para un mejor desrrollo.
 
 
 
