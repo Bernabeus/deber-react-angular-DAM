@@ -43,7 +43,7 @@ Como último paso para la generación de APK o Bundle se selecciona la opción d
 
 # Diferencias entre Angular y React 
 
-* Una de las principales diferencias se presentan en el momento de ejecutar el comando de ionic build puesto que en Angular crea una carpeta denominada como www. Por otro lado, en React se genera la carpeta build. 
+* Una de las principales diferencias se presentan en el momento de ejecutar el comando de ionic build puesto que en Angular crea una carpeta denominada como www . Por otro lado, en React se genera la carpeta build. 
 
 * Ambas tecnologías trabajan muy bien en relación con ionic, ambas permiten trabajar e implementar las mismas funcionalidades por lo cual en modo de conclusión se puede decir que ninguna tecnologia es mejor que otra, sino que depende del tipo de proyecto para saber que tecnología puede ser usada para un mejor desrrollo.
 
