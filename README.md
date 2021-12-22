@@ -21,7 +21,7 @@ Por ultimo se crea los archivos APK y Bundle como se vera en las siguientes imag
 # Explicación de creacion de APK/Bundle con React
 
 Una vez ejecutados los comandos ionic build y ionic cap add android se generarán dos directorios, build y android respectivamente. Como se muestra en la siguiente figura.
-Http
+
 ![image](https://user-images.githubusercontent.com/66254573/146658481-2881bd46-76e1-40d1-b769-103ae8c71fb3.png)
 
 Dentro del archivo Manifest que se encuentra en android/app/src/main/AndroidManifest.xml se colocan las respectivas líneas de comando de permisos como se muestra en la siguiente figura.
