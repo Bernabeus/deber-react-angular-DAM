@@ -18,6 +18,10 @@ Por ultimo se crea los archivos APK y Bundle como se vera en las siguientes imag
 ![image](https://user-images.githubusercontent.com/58036212/146658930-18321e7b-ee0b-4f1a-aa49-f4b83fa346a8.png)
 ![image](https://user-images.githubusercontent.com/58036212/146658932-b2537d0f-e1fa-462b-b95b-3d20615d6029.png)
 
+El archivo apk se encontrara en la carpeta principal del proyecto y se llamara apkAngular.apk
+
+![image](https://user-images.githubusercontent.com/58036212/147166956-52d4c9d7-0075-41ed-bfe3-ca2080a68d8d.png)
+
 # Explicación de creacion de APK/Bundle con React
 
 Una vez ejecutados los comandos ionic build y ionic cap add android se generarán dos directorios, build y android respectivamente. Como se muestra en la siguiente figura.
