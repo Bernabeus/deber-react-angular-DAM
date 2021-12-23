@@ -45,6 +45,11 @@ Como último paso para la generación de APK o Bundle se selecciona la opción d
 * Bundle
 ![image](https://user-images.githubusercontent.com/66254573/146658617-0e4e3659-37b8-4e30-92ba-18fd60274f38.png)
 
+Ambos elementos se encuentran en la carpeta principal del proyecto realizado con React como se muestra en la siguiente figura.
+
+![image](https://user-images.githubusercontent.com/66254573/147168273-91f47f7d-0022-4cdb-86c9-3bd5ab136d6b.png)
+
+
 # Diferencias entre Angular y React 
 
 * Una de las principales diferencias se presentan en el momento de ejecutar el comando de ionic build puesto que en Angular crea una carpeta denominada como www . Por otro lado, en React se genera la carpeta build. 
